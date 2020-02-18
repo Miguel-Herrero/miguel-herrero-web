@@ -3,7 +3,8 @@ title: My work
 subtitle: These are my things
 menus:
   main:
-    title: Work
+    title: My Website
+    url: 'https://miguelherrero.es'
     weight: 6
 layout: page
 ---

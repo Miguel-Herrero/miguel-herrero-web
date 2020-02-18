@@ -5,5 +5,5 @@ menus:
   main:
     title: Posts
     weight: 3
-layout: home
+layout: posts-list
 ---
